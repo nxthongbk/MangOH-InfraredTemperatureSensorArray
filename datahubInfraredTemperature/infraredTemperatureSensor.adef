@@ -1,0 +1,20 @@
+executables:
+{
+	infraredTemperatureSensord = ( infraredTemperatureSensorComponent )
+}
+
+processes:
+{
+	run:
+	{
+		( infraredTemperatureSensord )
+	}
+}
+
+bindings:
+{
+
+	infraredTemperatureSensord.infraredTemperatureSensorComponent.io -> dataHub.io
+	infraredTemperatureSensord.infraredTemperatureSensorComponent.admin -> dataHub.admin
+	infraredTemperatureSensord.infraredTemperatureSensorComponent.ma_infraredTemperature -> infraredTemperature.ma_infraredTemperature
+}

@@ -1,0 +1,12 @@
+sources:
+{
+	infraredTemperature.c
+}
+
+provides:
+{
+	api:
+	{
+		$CURDIR/../ma_infraredTemperature.api
+	}
+}

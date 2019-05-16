@@ -1,0 +1,25 @@
+requires:
+{
+	api:
+	{
+		$LEGATO_ROOT/apps/sample/dataHub/io.api
+		$LEGATO_ROOT/apps/sample/dataHub/admin.api
+		$CURDIR/../ma_infraredTemperature.api
+	}
+	component:
+	{
+		$LEGATO_ROOT/apps/sample/dataHub/components/json
+	}
+}
+
+cflags:
+{
+	-I$LEGATO_ROOT/apps/sample/dataHub/components/json
+}
+
+sources:
+{
+	infraredTemperatureDisplay.c
+}
+
+
