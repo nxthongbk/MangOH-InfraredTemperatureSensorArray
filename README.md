@@ -9,7 +9,7 @@ This project demonstrates how to integrate Grove Infrared Temperature Sensor Arr
 * A Grove IoT Expansion card.
 * Infrared Temperature Sensor Array: See detail of sensor on wiki page: http://wiki.seeedstudio.com/Grove-Infrared_Temperature_Sensor_Array-AMG8833/ 
 
-<img src="https://user-images.githubusercontent.com/17214533/57901066-94949c80-788d-11e9-8ec1-f391d388d850.jpg" width="350" alt="accessibility text"> 
+<img src="https://user-images.githubusercontent.com/17214533/57901207-43d17380-788e-11e9-9cc8-df3ccf7cab8f.jpg" width="350" alt="accessibility text"> 
 
 Infrared Temperature Sensor Array
 ------------------
