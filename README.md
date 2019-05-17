@@ -9,6 +9,8 @@ This project demonstrates how to integrate Grove Infrared Temperature Sensor Arr
 * A Grove IoT Expansion card.
 * Infrared Temperature Sensor Array: See detail of sensor on wiki page: http://wiki.seeedstudio.com/Grove-Infrared_Temperature_Sensor_Array-AMG8833/ 
 
+<img src="https://user-images.githubusercontent.com/17214533/57901066-94949c80-788d-11e9-8ec1-f391d388d850.jpg" width="350" alt="accessibility text"> 
+
 Infrared Temperature Sensor Array
 ------------------
 The Grove - Infrared Temperature Sensor Array (AMG8833) is a high precision infrared array sensor which based on advanced MEMS technology. It can support temperature detection of two-dimensional area: 8 × 8 (64 pixels)
